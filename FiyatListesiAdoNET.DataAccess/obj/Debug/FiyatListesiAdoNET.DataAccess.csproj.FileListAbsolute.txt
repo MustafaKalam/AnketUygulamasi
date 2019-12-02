@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiAdoNET.DataAccess\bin\Debug\FiyatListesiAdoNET.DataAccess.dll
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiAdoNET.DataAccess\bin\Debug\FiyatListesiAdoNET.DataAccess.pdb
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiAdoNET.DataAccess\obj\Debug\FiyatListesiAdoNET.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiAdoNET.DataAccess\obj\Debug\FiyatListesiAdoNET.DataAccess.dll
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiAdoNET.DataAccess\obj\Debug\FiyatListesiAdoNET.DataAccess.pdb
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiAdoNET.DataAccess\obj\Debug\FiyatListesiAdoNET.DataAccess.csprojAssemblyReference.cache

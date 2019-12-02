@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\bin\Debug\FiyatListesiForm.exe.config
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\bin\Debug\FiyatListesiForm.exe
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\bin\Debug\FiyatListesiForm.pdb
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\obj\Debug\FiyatListesiForm.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\obj\Debug\FiyatListesiForm.Form1.resources
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\obj\Debug\FiyatListesiForm.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\obj\Debug\FiyatListesiForm.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\obj\Debug\FiyatListesiForm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\obj\Debug\FiyatListesiForm.exe
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\obj\Debug\FiyatListesiForm.pdb
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\bin\Debug\FiyatListesiAdoNET.DataAccess.dll
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\bin\Debug\FiyatListesiAdoNET.DataAccess.pdb
+C:\Users\Lenovo\source\repos\FiyatListesiAdoNET\FiyatListesiForm\obj\Debug\FiyatListesiForm.csproj.CopyComplete
